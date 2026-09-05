@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sarubala 👋
 
-<!--
-**sarubalab6-labs/sarubalab6-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer  
+🌱 Currently learning HTML & CSS  
+🚀 Building projects and improving every day  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- Git & GitHub
+
+## 📌 Featured Project
+
+🍴 **Homie Recipes**  
+A simple and user-friendly recipe website built with HTML and CSS.
+
+## 🎯 My Goal
+
+To become a skilled web developer and build creative, useful websites.
+
+Thanks for visiting my profile! ❤️
