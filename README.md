@@ -50,7 +50,7 @@
 <h2 align="center">🔥 Contributions</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarubala6-labs&theme=tokyonight" width="95%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:D4AF37,50:8B0000,100:111111&section=footer"/>
 </p>
 
 ---
