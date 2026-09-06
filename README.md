@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sarubalab6-labs/sarubalab6-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Sarubala B
 
-Here are some ideas to get you started:
+💻 Code • 🎨 Create • 💡 Innovate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+HTML • CSS • JavaScript • Python • Java
+
+### 🎨 About Me
+🖌️ I love drawing  
+💡 I love thinking differently  
+🚀 I enjoy creating new ideas
+
+### 🌱 Currently
+Learning & building as a Full Stack Developer
