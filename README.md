@@ -1,51 +1,56 @@
-<!-- ================= DARK HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:111111,100:1F2937&text=SARUBALA%20B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</p>
-
-<!-- ================= ANIMATED INTRO ================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Creative+Thinker;Building+Ideas+into+Reality" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Sarubala%20B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&descColor=00D9FF" width="100%" />
 </p>
 
 <p align="center">
-  <sub>Code • Design • Create</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+full+stack+web+apps;Turning+data+into+insights;Exploring+GenAI+and+AI+agents;Code+%E2%80%A2+Data+%E2%80%A2+Design" />
 </p>
 
----
-
-<!-- ================= SKILLS ================= -->
-
-<h3 align="center">TECH STACK</h3>
+<p align="center">
+  B.Tech Information Technology student at M.A.M. College of Engineering and Technology, Tiruchirappalli
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,django,mysql,git,github&theme=dark" />
+  <a href="https://sarubala-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/sarubalab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sarubalab6@gmail.com"><img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## 👩‍💻 About Me
+I build full stack web applications and turn raw data into meaningful insights. I enjoy exploring where **web development, data analytics and generative AI** meet.
 
-<h3 align="center">PROJECTS</h3>
+| 🚀 Build | 📊 Analyze | 🎨 Design | 🤖 Explore |
+|---|---|---|---|
+| Full stack web apps | SQL, Excel, Power BI | UI / UX interfaces | GenAI and AI agents |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<a href="https://github.com/sarubala6-labs/100-days-of-code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sarubala6-labs&repo=100-days-of-code&theme=dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/sarubala6-labs/homie-recipes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sarubala6-labs&repo=homie-recipes&theme=dark&hide_border=true"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,java,mysql,powerbi,git,github,figma&theme=dark" />
 </p>
 
 ---
 
-<!-- ================= FOOTER ================= -->
+## 🚀 Projects
+
+| Project | What it does | Tech | Link |
+|---|---|---|---|
+| **Draw2Web AI** | Converts hand-drawn website sketches into web interfaces using AI | JavaScript, AI | [View Code](https://github.com/SarubalaB6/DrawToWebsiteAI) |
+| **VoicePrint** | Browser-based authentication with face recognition and voice verification | JavaScript, Face API | [View Code](https://github.com/SarubalaB6/voiceprint) |
+| **Homie Recipes** | Recipe platform for discovering food ideas | HTML, CSS, JavaScript | [View Code](https://github.com/SarubalaB6/homie-recipes) |
+| **Personal Portfolio** | Developer portfolio with projects, analytics and certificates | HTML, CSS, JavaScript | [View Code](https://github.com/SarubalaB6/sarubala-portfolio) |
+
+---
+
+## 🎯 Currently
+- Building data analytics projects with SQL, Excel and Power BI
+- Learning Django and backend development
+- Exploring GenAI and prompt engineering
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F2937,50:111111,100:050505&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" width="100%" />
 </p>
