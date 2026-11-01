@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=00FFC6&center=true&vCenter=true&width=720&height=50&lines=%E2%9A%A1+Turning+ideas+into+web+apps;%F0%9F%93%8A+Turning+data+into+decisions;%F0%9F%A4%96+Experimenting+with+GenAI;%F0%9F%9A%80+Open+to+internships+%26+entry-level+roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=00FFC6&center=true&vCenter=true&width=720&height=50&lines=Turning+ideas+into+web+apps;Turning+data+into+decisions;Experimenting+with+GenAI;Open+to+internships+and+entry-level+roles" />
 </p>
 
 <p align="center">
